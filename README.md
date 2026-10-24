@@ -13,7 +13,7 @@ A hash table is a dictionary but you can instantly get data by calling a method
 - Each box contains a linked list
 
 ## How to run it
-`python main.py`
+`python hash_table.py`
 
 ## Built by
 Kashish Dugar
