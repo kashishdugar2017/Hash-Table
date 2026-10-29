@@ -9,7 +9,7 @@ A hash table is a dictionary but you can instantly get data by calling a method
 - Then it add all the numbers of letters and divide it by 10 whatever remains is the box number.
 
 ## How it deals with collisions
-- I made a structure that is a array and because the biggest remainder possible while dividing by 10 is 9 we have 10 boxes numbered 1 to 9
+- I made a structure that is a array and because the biggest remainder possible while dividing by 10 is 9 we have 10 boxes numbered 0 to 9
 - Each box contains a linked list
 
 ## How to run it
