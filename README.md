@@ -5,7 +5,7 @@ A program that stores a word and we can instantly get it by using the get functi
 A hash table is a dictionary but you can instantly get data by calling a method
 
 ## How it works
-- First a word becomes a box number by the number of letter say 116 for the letter tthen it add all the numbers of letters and divide it by 10 whatever remains is the box number.
+- First a word becomes a box number by the number of letter say 116 for the letter.
 - Then it add all the numbers of letters and divide it by 10 whatever remains is the box number.
 
 ## How it deals with collisions
